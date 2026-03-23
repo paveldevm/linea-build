@@ -35,4 +35,4 @@ npm run preview
 
 ## Демо
 
-https://pavelmalyv.github.io/linea-build/
+https://paveldevm.github.io/linea-build/
